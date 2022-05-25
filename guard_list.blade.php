@@ -23,6 +23,7 @@
         <td>{{$guard->Stopien}}</td>
         <td>{{$guard->Telefon}}</td> 
 xxxxxxPiotrBMWSIEMA
+xxxxxxxxxPIOTRUS
         <td>
 
 
