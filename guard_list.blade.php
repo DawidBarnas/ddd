@@ -22,10 +22,10 @@
         <td>{{$guard->email}}</td>
         <td>{{$guard->Stopien}}</td>
         <td>{{$guard->Telefon}}</td> 
-xxxxxxxxx		
+xxxxxxPiotrBMWSIEMA
         <td>
 
-Piotr BMW
+
         <a href="guard_edit/{{ $guard -> id }}">Edytuj </a>
           <a href={{"deleteguard/".$guard['id']}}>Usuń</a>
         </td>    
