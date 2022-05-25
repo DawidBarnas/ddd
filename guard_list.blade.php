@@ -23,6 +23,8 @@
         <td>{{$guard->Stopien}}</td>
         <td>{{$guard->Telefon}}</td>    
         <td>
+
+Piotr BMW
         <a href="guard_edit/{{ $guard -> id }}">Edytuj </a>
           <a href={{"deleteguard/".$guard['id']}}>Usuń</a>
         </td>    
